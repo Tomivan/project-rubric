@@ -29,3 +29,18 @@ aside{
     margin-left: 80%;
     margin-top: -67%;
 }
+
+@media(min-width: 320px) and (max-width: 768px) {
+    .section{
+        display: grid;
+        grid-template-columns: auto;
+    }
+    .card{
+        width: 80%;
+        height: 50vh;
+    }
+    aside{
+        margin-top: 0;
+        margin-left: 10%;
+    }
+}
