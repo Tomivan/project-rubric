@@ -1,0 +1,21 @@
+.section-1{
+    display: flex;
+    margin-left: 5%;
+    width: 80%;
+}
+.section-2{
+    text-align: center;
+    background-color: blue;
+    color: #fff;
+    padding: 1em;
+}
+aside{
+    display: flex;
+    flex-direction: column;
+    margin-left: 5%;
+}
+.author{
+    border-radius: 50%;
+    height: 10vh;
+    width: 5vw;
+}

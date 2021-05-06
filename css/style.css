@@ -19,15 +19,9 @@ h1{
     margin-bottom: 5%;
     padding: 1em;
 }
-.section-1{
-    margin-left: 5%;
-    width: 70%;
-}
-aside{
-    display: flex;
-    flex-direction: column;
-    margin-left: 80%;
-    margin-top: -67%;
+.footer{
+    text-align: center;
+    border-top: 1px solid black;
 }
 
 @media(min-width: 320px) and (max-width: 768px) {
