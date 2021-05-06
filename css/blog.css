@@ -14,6 +14,9 @@ aside{
     flex-direction: column;
     margin-left: 5%;
 }
+.return{
+    margin-left: 5%;
+}
 .author{
     border-radius: 50%;
     height: 10vh;
